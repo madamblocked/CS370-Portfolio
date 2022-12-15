@@ -1,1 +1,3 @@
 # CS370-Portfolio
+
+This is the Jupyter Notebook file for the intelligent pirate game. This file runs the code given to us with additions to code we created ourselves. In regard to larger aspects of computer science, computer scientists are problem solvers. They analyze a need, enhancement or bug to understand how it is performing. Then they react to that and develop ways to look at contributors to that performance. In the end they are the ones who solve intricate problems for many others. To the end user and organization I must make sure I keep things confidential when needed and code securely. Thanks for a great read.
